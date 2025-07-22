@@ -65,8 +65,8 @@ void handleRoot() {
                             if (x.type === 'password') {x.type = 'text';} 
                             else {x.type = 'password';}}
                   </script>
-                  <h2>HubVolt (v1.0)</h2>
-                  <p>Welcome to HubVolt.</p>
+                  <h2>AtmoSync (v1.0)</h2>
+                  <p>Welcome to AtmoSync.</p>
                   <h3>WiFi & Server Configuration</h3>
                   <form action='/save' method='post'><table>
                   <tr>
